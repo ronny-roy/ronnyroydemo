@@ -6,7 +6,7 @@
 
     **1.** Create a _[customer performance report](https://github.com/ronny-roy/ronnyroydemo/blob/main/customer%20performance%20report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]()_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/ronny-roy/ronnyroydemo/blob/main/market%20performance%20report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
