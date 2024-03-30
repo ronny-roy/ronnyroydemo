@@ -4,9 +4,13 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/ronny-roy/ronnyroydemo/blob/main/customer%20performance%20report.pdf)_ 
+    **1.** Create a
+  
+   _[customer performance report](https://github.com/ronny-roy/ronnyroydemo/blob/main/customer%20performance%20report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/ronny-roy/ronnyroydemo/blob/main/market%20performance%20report.pdf)_
+    **2.** Conduct a comprehensive comparison between
+  
+   _[market performance and sales targets](https://github.com/ronny-roy/ronnyroydemo/blob/main/market%20performance%20report.pdf)_
   
     **3.** Other business metrics
   
@@ -16,7 +20,7 @@
   
   _[top 5 countries for sales 2021](https://github.com/ronny-roy/ronnyroydemo/blob/main/top%205%20countries%20of%20atliq%20hardware%20for%202021%20sales.pdf)_
  
-   _[GM % by sub_zone quarterly]()_ 
+   _[GM % by sub_zone quarterly](https://github.com/ronny-roy/ronnyroydemo/blob/main/GM%20%25%20BY%20sub%20zone%20quarterly.pdf)_ 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
