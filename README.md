@@ -14,9 +14,9 @@
 
   _[top 10 products of atliq hardware ](https://github.com/ronny-roy/ronnyroydemo/blob/main/top%2010%20products%20of%20atliQ%20hardware%20company.pdf)_
   
-  _[top 5 countries for sales 2021](https://github.com/ronny-roy/ronnyroydemo/blob/main/market%20performance%20report.pdf)_
+  _[top 5 countries for sales 2021](https://github.com/ronny-roy/ronnyroydemo/blob/main/top%205%20countries%20of%20atliq%20hardware%20for%202021%20sales.pdf)_
  
-   _[GM % by sub_zone quarterly](https://github.com/ronny-roy/ronnyroydemo/blob/main/market%20performance%20report.pdf)_ 
+   _[GM % by sub_zone quarterly]()_ 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
