@@ -7,7 +7,10 @@
     **1.** Create a _[customer performance report](https://github.com/ronny-roy/ronnyroydemo/blob/main/customer%20performance%20report.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/ronny-roy/ronnyroydemo/blob/main/market%20performance%20report.pdf)_
-
+    **3.** Other business metrics _[ 5 top and bottom products in quantity sold]_()_
+                                  _[top 10 products of Atliq Hardware]_()_
+                                  _[top 5 countries for 2021 sales]_()_
+                                  _[GM % by sub_cone quarterly]_()_
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
