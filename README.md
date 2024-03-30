@@ -12,15 +12,7 @@
   
    _[market performance and sales targets](https://github.com/ronny-roy/ronnyroydemo/blob/main/market%20performance%20report.pdf)_
   
-    **3.** Other business metrics
-  
-  _[5top and bottom products quantity sold ](https://github.com/ronny-roy/ronnyroydemo/blob/main/top%205%20and%20bottom%205%20products%20in%20quantity%20sold.pdf)_
-
-  _[top 10 products of atliq hardware ](https://github.com/ronny-roy/ronnyroydemo/blob/main/top%2010%20products%20of%20atliQ%20hardware%20company.pdf)_
-  
-  _[top 5 countries for sales 2021](https://github.com/ronny-roy/ronnyroydemo/blob/main/top%205%20countries%20of%20atliq%20hardware%20for%202021%20sales.pdf)_
- 
-   _[GM % by sub_zone quarterly](https://github.com/ronny-roy/ronnyroydemo/blob/main/GM%20%25%20BY%20sub%20zone%20quarterly.pdf)_ 
+    
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
@@ -35,6 +27,16 @@
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/ronny-roy/ronnyroydemo/blob/main/P%20%26%20L%20by%20yaer.pdf)_ & _[P & L by quarter](https://github.com/ronny-roy/ronnyroydemo/blob/main/P%20%26%20L%20report%20Quarter.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/ronny-roy/ronnyroydemo/blob/main/P%20%26%20L%20by%20markets.pdf)_
+
+  **3.** Other business metrics
+  
+  _[5top and bottom products quantity sold ](https://github.com/ronny-roy/ronnyroydemo/blob/main/top%205%20and%20bottom%205%20products%20in%20quantity%20sold.pdf)_
+
+  _[top 10 products of atliq hardware ](https://github.com/ronny-roy/ronnyroydemo/blob/main/top%2010%20products%20of%20atliQ%20hardware%20company.pdf)_
+  
+  _[top 5 countries for sales 2021](https://github.com/ronny-roy/ronnyroydemo/blob/main/top%205%20countries%20of%20atliq%20hardware%20for%202021%20sales.pdf)_
+ 
+   _[GM % by sub_zone quarterly](https://github.com/ronny-roy/ronnyroydemo/blob/main/GM%20%25%20BY%20sub%20zone%20quarterly.pdf)_
 
 - **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
